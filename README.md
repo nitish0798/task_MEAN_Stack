@@ -1,4 +1,5 @@
 # task_MEAN_Stack
+# liv coding interview 
 
 Task discription
 
@@ -22,7 +23,7 @@ Backend:
   
      Database- mongoDB , FrontEnd - Angular and Backend- Node js, Express js
      
- Time : 2 hours
+ Time : 1.5 hours
 
 Video Screen recorder : https://drive.google.com/file/d/1OmPdaxUKxHlIXfu2NDE_U6D_KsVsVh8S/view?usp=share_link
 <Br>Audio file; uploaded in repo directory please check.
